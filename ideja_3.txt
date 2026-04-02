@@ -1,11 +1,11 @@
 Kāds varētu būt projekta nosaukums?
-
+Palīgierīce
 
 Ko projekts dara vienā teikumā?
-
+Atgādina par kādu rīcību noteiktā laikā.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Palīdz parastam cilvēkam atgādināt par to, ko viņš var aizmirst izdarīt.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
