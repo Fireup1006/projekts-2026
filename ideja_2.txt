@@ -8,7 +8,7 @@ Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklai
 Palīdz tiesnešiem izdarīt pareizo secinājumu, vai pārkāpums ir bijis vai nav, ja viņi paši nespēj izšķirties.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-Tiesnesis var iedot kartīti spēlētājam par to, ka viņš pārkāpis noteikumus, vai noteikt 11 metru penalti.
+Tiesnesis
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 Konsolē
