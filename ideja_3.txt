@@ -8,10 +8,12 @@ Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklai
 Palīdz parastam cilvēkam atgādināt par to, ko viņš var aizmirst izdarīt.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Cilvēks
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+1) Iestatīt, kad jānosūta paziņojums.
+2) Uzdot botam, kas kādā laikā jādara (piemēram, jāpaveic mācību stundas)
+3) Dot robotam uzdevumu izveidot jaunu atgādinājumu.
