@@ -14,8 +14,8 @@ Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkārš�
 Konsolē
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-Pārbaude uz off saida.
-Pārbauda, ja spēlētājs ļoti rupji nospēlējis tiesnesis izsniegs sarkano kartīti.
-Pārbauda, ja spēlētājs ir nospēlējis un pārkāpis noteikumus, bet viņš to nav darījis tīšām, tad tiesnesis iedos dzelteno kartīti.
-Pārbauda, vai pēdējais spēlētājs off Said pirms iesistas plikas ja ir, tad vārti nav ieskaitīti.
-Pārbauda, vai pēdējais spēlētājs off Saids pirms iesistās plikas ja nē, tad vārti ieskaitīti.
+1) Pārbaude uz off saida.
+2) Pārbauda, ja spēlētājs ļoti rupji nospēlējis tiesnesis izsniegs sarkano kartīti.
+3) Pārbauda, ja spēlētājs ir nospēlējis un pārkāpis noteikumus, bet viņš to nav darījis tīšām, tad tiesnesis iedos dzelteno kartīti.
+4) Pārbauda, vai pēdējais spēlētājs off Said pirms iesistas plikas ja ir, tad vārti nav ieskaitīti.
+5) Pārbauda, vai pēdējais spēlētājs off Saids pirms iesistās plikas ja nē, tad vārti ieskaitīti.
