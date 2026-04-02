@@ -1,17 +1,20 @@
 Kāds varētu būt projekta nosaukums?
-
+Anti-cheat cs2
 
 Ko projekts dara vienā teikumā?
-
+Tā ir programma, kas pārbauda, vai cilvēks nespēlē godīgi vai nē (Viņš var redzēt pretiniekus caur sienām, tēmēt uz galvas utt.)
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Samazina spēlētāju skaitu spēlē, kuri nespēlē godīgi.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Spēlētājs, kurš ienāca spēlēt cs2.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Konsolē
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+Pārbauda, cik bieži spēlētājs caur sienām vēršas pret citu spēlētāju.
+Cik bieži spēlētājs nogalina galvā un cik ātri.
+Cik bieži spēlētājs nogalina caur sienām.
+Ja kas no tā bieži notiek tad vajag viņam izdot “VAC BAN”.
