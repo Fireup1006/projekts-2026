@@ -15,6 +15,6 @@ Konsolē
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 Pārbauda, cik bieži spēlētājs caur sienām vēršas pret citu spēlētāju.
-Cik bieži spēlētājs nogalina galvā un cik ātri.
-Cik bieži spēlētājs nogalina caur sienām.
-Ja kas no tā bieži notiek tad vajag viņam izdot “VAC BAN”.
+1) Cik bieži spēlētājs nogalina galvā un cik ātri.
+2) Cik bieži spēlētājs nogalina caur sienām.
+3) Ja kas no tā bieži notiek tad vajag viņam izdot “VAC BAN”.
