@@ -19,3 +19,12 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 3) Pārbauda, ja spēlētājs ir nospēlējis un pārkāpis noteikumus, bet viņš to nav darījis tīšām, tad tiesnesis iedos dzelteno kartīti.
 4) Pārbauda, vai pēdējais spēlētājs off Said pirms iesistas plikas ja ir, tad vārti nav ieskaitīti.
 5) Pārbauda, vai pēdējais spēlētājs off Saids pirms iesistās plikas ja nē, tad vārti ieskaitīti.
+5 fun. prasības:
+Lietotājs (kā VAR) var pateikt vai offsaids bija vai nebija.
+Lietotājs (kā VAR) var izvēlēties, vai spēlētājs ir pārāk nospēlējis vai ne pārāk rupji.
+Lietotājs (kā VAR) var pateikt vai pārkāpums bija aiz vārtsargu līnijas.
+Pēc vārtu guvuma lietotājs (kā VAR) var pārbaudīt vai bija ofsaids vai noteikumu pārkāpums ka varētu ieskaitīt vārtus.
+Lietotājs (kā tiesnesis) var ierakstīt notikumu (golu) kurā minūtē ir noticis.
+3 nefun. parsības:
+
+
