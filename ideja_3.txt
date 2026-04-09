@@ -17,3 +17,10 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 1) Iestatīt, kad jānosūta paziņojums.
 2) Uzdot botam, kas kādā laikā jādara (piemēram, jāpaveic mācību stundas)
 3) Dot robotam uzdevumu izveidot jaunu atgādinājumu.
+5 fun. prasības:
+Lietotājs var uzrakstīt (izvēlēties), kad tas saņems paziņojum
+Lietotājs var uzrakstīt (izvēlēties), kas viņam noteiktā laikā ir jādara.
+Lietotājs var pārrakstīt laiku vai uzdevumu, kas jādara.
+Lietotājs var veikt jaunu ierakstu.
+Lietotājs var atcelt ierakstu.
+3 nefun. parsības:
