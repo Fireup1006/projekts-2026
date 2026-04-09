@@ -18,3 +18,13 @@ Pārbauda, cik bieži spēlētājs caur sienām vēršas pret citu spēlētāju.
 1) Cik bieži spēlētājs nogalina galvā un cik ātri.
 2) Cik bieži spēlētājs nogalina caur sienām.
 3) Ja kas no tā bieži notiek tad vajag viņam izdot “VAC BAN”.
+
+5 fun. prasības:
+Lietotājs var ieviest aizdomās turētā aizstājvārdu.
+Lietotājs var pats izvēlēties dot spēlētājam "VAC BAN" vai nē.
+Lietotājs var pateikt cik bieži pretinieks caur sienām skatās uz pretiniekiem.
+Lietotājs var pateikt cik bieži spēlētājs trāpīsies pretiniekam galvā.
+
+3 nefun. parsības:
+
+
