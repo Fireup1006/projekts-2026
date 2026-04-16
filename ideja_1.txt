@@ -39,3 +39,14 @@ Vai šī programma atbilst visiem vērtēšanas kritērijiem?
 3
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 3
+
+
+
+Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
+Fortnite izmanto sistēmu Easy Anti-Cheat (EAC), ko izstrādājusi Epic Games, lai reāllaikā atklātu un bloķētu krāpšanās programmatūru.
+Spēlē Valorant tiek izmantota pretkrāpšanas sistēma Riot Vanguard, ko izstrādājusi kompānija Riot Games.
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+
+Izveidot ekrānšaviņus lai būtu redzams kā izskatās risinājums.
+
+Dotu informāciju saglabāt jaunā datnē Github repozitorijā.
