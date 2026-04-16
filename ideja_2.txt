@@ -39,3 +39,33 @@ Vai šī programma atbilst visiem vērtēšanas kritērijiem?
 4
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 3
+
+
+
+Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
+Veikala izejā esošais skeneris (pretaizdzīšanas vārti) ir drošības sistēma, kas sastāv no antenu stabiem, kuri veido elektromagnētisko lauku. Tie reaģē uz neaktivizētām drošības uzlīmēm vai cietajiem sensoriem, kas piestiprināti precei.
+Videonovērošana (CCTV) — kameras veikalos, ielās un transportā, lai pārbaudītu notikumus.
+
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+Pretaizdzīšanas vārti:
++
+1.Zādzību samazināšana — novērš neapmaksātu preču iznešanu no veikala.
+2.Ātra pārkāpumu atklāšana — sistēma nekavējoties reaģē uz aktīvām drošības uzlīmēm.
+3.Veikala drošības paaugstināšana — samazina zaudējumus un palīdz kontrolēt preču plūsmu.
+-
+1.Viltus trauksmes — sistēma var reaģēt arī tad, ja nav īstas zādzības, radot neērtības klientiem.
+2.Apkalpošanas palēnināšanās — dažkārt preču pārbaude pie kases var aizņemt vairāk laika, īpaši, ja rodas kļūdas ar drošības uzlīmēm.
+3.Ierobežota efektivitāte — pieredzējuši zagļi var apiet sistēmu vai noņemt drošības uzlīmes.
+CCTV:
++
+1.Drošības uzlabošana — kameras palīdz novērst noziegumus un fiksēt pārkāpumus.
+2.Pierādījumu bāze — ierakstus var izmantot izmeklēšanā un strīdu risināšanā.
+3.Uzraudzība un kontrole — ļauj sekot notiekošajam reāllaikā veikalos, ielās vai transportā.
+-
+1.Privātuma aizskaršana — cilvēki var justies pastāvīgi novēroti.
+2.Tehniskas problēmas — kameras var sabojāties, zaudēt savienojumu vai ieraksta kvalitāte var būt slikta.
+3.Ierobežota efektivitāte — kameras ne vienmēr novērš noziegumu, tās to tikai fiksē.
+
+Izveidot ekrānšaviņus lai būtu redzams kā izskatās risinājums.
+
+Dotu informāciju saglabāt jaunā datnē Github repozitorijā.
