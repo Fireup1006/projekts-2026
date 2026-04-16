@@ -29,8 +29,13 @@ Lietotājs var pateikt cik bieži spēlētājs trāpīsies pretiniekam galvā.
 
 
 
-1. 5
-2. 3
-3. 4
-4. 3
-5. 3
+Cik ļoti mani aizrauj šī tēma?
+5
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+3
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+4
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+3
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+3
