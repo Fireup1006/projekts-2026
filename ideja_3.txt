@@ -37,3 +37,30 @@ Vai šī programma atbilst visiem vērtēšanas kritērijiem?
 4
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 5
+
+Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
+Modinātājs ir nepieciešams, lai garantēti pamostos noteiktā laikā un saskaņotu savu darbību ar dienas grafiku. Tas palīdz ievērot dienas režīmu, nodrošina savlaicīgu darbu sākumu (darbs, mācības), novērš kavēšanos un tiek izmantots kā taimeris vai atgādinājums.
+(Kalendārs) Kalendārais plāns ir strukturēts projekta darbu saraksts ar skaidri noteiktiem termiņiem, atbildīgajām personām un saistībām starp projekta posmiem.
+
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+Modinātājs:
++
+1. Savlaicīga pamošanās — palīdz pamosties vajadzīgajā laikā bez kavēšanās.
+2. Dienas režīma organizēšana — veicina disciplīnu un palīdz ievērot dienas grafiku.
+3. Produktivitātes paaugstināšana — palīdz plānot rītu un savlaicīgi sākt darbus.
+-
+1. Stress un traucēts miegs — pēkšņa skaņa var radīt stresu un pasliktināt miega kvalitāti.
+2. Atkarība no modinātāja — cilvēks var pierast nepiecelties bez tā.
+3. Pārtraukts miega cikls — ja modinātājs zvana nepiemērotā miega fāzē, var justies noguris.
+Kalendārs:
++
+1. Skaidra struktūra — palīdz saprast visus projekta posmus un to secību.
+2. Laika kontrole — ļauj efektīvi plānot termiņus un izvairīties no kavēšanās.
+3. Atbildības sadale — skaidri nosaka, kurš par ko ir atbildīgs projektā.
+-
+1. Maz elastības — grūti ātri pielāgoties izmaiņām projektā.
+2. Laika plānošanas kļūdas — nepareizi noteikti termiņi var izjaukt visu plānu.
+3. Laika plānošanas kļūdas — nepareizi noteikti termiņi var izjaukt visu plānu.
+Izveidot ekrānšaviņus lai būtu redzams kā izskatās risinājums.
+
+Dotu informāciju saglabāt jaunā datnē Github repozitorijā.
