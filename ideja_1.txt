@@ -28,3 +28,9 @@ Lietotājs var pateikt cik bieži spēlētājs trāpīsies pretiniekam galvā.
 3 nefun. parsības:
 
 
+
+1. 5
+2. 3
+3. 4
+4. 3
+5. 3
