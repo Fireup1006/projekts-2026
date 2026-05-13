@@ -26,8 +26,9 @@ Lietotājs var pateikt cik bieži pretinieks caur sienām skatās uz pretiniekie
 Lietotājs var pateikt cik bieži spēlētājs trāpīsies pretiniekam galvā.
 
 3 nefun. parsības:
-
-
+Programmai jādarbojas ātri un bez aiztures, lai spēles analīze neaizņemtu vairāk par dažām sekundēm.
+Programmai jābūt stabilai un nedrīkst avarēt, ievadot nepareizu spēlētāja vārdu vai bojātus datus.
+Programmas kodam jābūt viegli saprotamam un strukturētam, lai to varētu viegli papildināt ar jaunām anti-cheat funkcijām nākotnē.
 
 Cik ļoti mani aizrauj šī tēma?
 5
