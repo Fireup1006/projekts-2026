@@ -19,15 +19,18 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 3) Pārbauda, ja spēlētājs ir nospēlējis un pārkāpis noteikumus, bet viņš to nav darījis tīšām, tad tiesnesis iedos dzelteno kartīti.
 4) Pārbauda, vai pēdējais spēlētājs off Said pirms iesistas plikas ja ir, tad vārti nav ieskaitīti.
 5) Pārbauda, vai pēdējais spēlētājs off Saids pirms iesistās plikas ja nē, tad vārti ieskaitīti.
+
 5 fun. prasības:
 Lietotājs (kā VAR) var pateikt vai offsaids bija vai nebija.
 Lietotājs (kā VAR) var izvēlēties, vai spēlētājs ir pārāk nospēlējis vai ne pārāk rupji.
 Lietotājs (kā VAR) var pateikt vai pārkāpums bija aiz vārtsargu līnijas.
 Pēc vārtu guvuma lietotājs (kā VAR) var pārbaudīt vai bija ofsaids vai noteikumu pārkāpums ka varētu ieskaitīt vārtus.
 Lietotājs (kā tiesnesis) var ierakstīt notikumu (golu) kurā minūtē ir noticis.
+
 3 nefun. parsības:
-
-
+Programmai jādarbojas ātri un jāspēj pārbaudīt situāciju dažu sekunžu laikā pēc notikuma.
+Programmai jābūt precīzai un stabilai, lai samazinātu kļūdainus lēmumus par offsaidu vai noteikumu pārkāpumiem.
+Programmas interfeisam konsolē jābūt vienkāršam un saprotamam, lai tiesnesis varētu viegli ievadīt un apskatīt informāciju.
 
 Cik ļoti mani aizrauj šī tēma?
 5
@@ -45,8 +48,8 @@ Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotāj
 Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
 Veikala izejā esošais skeneris (pretaizdzīšanas vārti) ir drošības sistēma, kas sastāv no antenu stabiem, kuri veido elektromagnētisko lauku. Tie reaģē uz neaktivizētām drošības uzlīmēm vai cietajiem sensoriem, kas piestiprināti precei.
 Videonovērošana (CCTV) — kameras veikalos, ielās un transportā, lai pārbaudītu notikumus.
-
 Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+
 Pretaizdzīšanas vārti:
 +
 1.Zādzību samazināšana — novērš neapmaksātu preču iznešanu no veikala.
