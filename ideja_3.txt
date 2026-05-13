@@ -17,15 +17,18 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 1) Iestatīt, kad jānosūta paziņojums.
 2) Uzdot botam, kas kādā laikā jādara (piemēram, jāpaveic mācību stundas)
 3) Dot robotam uzdevumu izveidot jaunu atgādinājumu.
+
 5 fun. prasības:
 Lietotājs var uzrakstīt (izvēlēties), kad tas saņems paziņojum
 Lietotājs var uzrakstīt (izvēlēties), kas viņam noteiktā laikā ir jādara.
 Lietotājs var pārrakstīt laiku vai uzdevumu, kas jādara.
 Lietotājs var veikt jaunu ierakstu.
 Lietotājs var atcelt ierakstu.
+
 3 nefun. parsības:
-
-
+Telegram botam jādarbojas nepārtraukti un uzticami, lai atgādinājumi tiktu nosūtīti noteiktajā laikā.
+Programmai jābūt vienkārši lietojamai, lai lietotājs varētu ātri izveidot, rediģēt vai dzēst atgādinājumus bez sarežģītām komandām.
+Programmai jāspēj saglabāt lietotāja ievadītos atgādinājumus arī pēc bota restartēšanas vai programmas aizvēršanas.
 
 Cik ļoti mani aizrauj šī tēma?
 3
